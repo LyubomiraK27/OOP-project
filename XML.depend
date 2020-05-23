@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1588732353 source:c:\users\user\desktop\oop-project-master\xml\main.cpp
+	<iostream>
+	<fstream>
+	"String.h"
+	"File.h"
+
+1588730404 c:\users\user\desktop\oop-project-master\xml\string.h
+	<iostream>
+	<cstring>
+
+1588730403 source:c:\users\user\desktop\oop-project-master\xml\string.cpp
+	"String.h"
+
+1588731937 c:\users\user\desktop\oop-project-master\xml\file.h
+	"String.h"
+
+1588732343 source:c:\users\user\desktop\oop-project-master\xml\file.cpp
+	"File.h"
+	<fstream>
+	<iostream>
+	"String.h"
+	<stdlib.h>
+
